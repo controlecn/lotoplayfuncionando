@@ -1,0 +1,71 @@
+.title_h {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000000;
+	font-weight: bold;
+	padding-left: 10px;
+}
+
+.tabletop {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #313031;
+	font-weight: bold;
+}
+
+.tableid {
+	color: #b5bece;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.tabletext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.Header {
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: bold;
+	color: #4E70D5;
+	text-decoration: none;
+}
+
+.smalltext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000000;
+	text-decoration: none;
+}
+
+.link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	#text-decoration: none;
+}
+.link:hover {
+	color: #ff7900;
+	#text-decoration: underline;
+}
+
+.redlink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: none;
+}
+.redlink:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+	text-decoration: underline;
+}
+.statbutton {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	text-decoration: none;
+}

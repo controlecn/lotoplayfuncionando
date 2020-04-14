@@ -1,0 +1,1 @@
+<? showContent("ABOUT_US") ?><br /><br /><a href="<?=$links["SUPPORT"]?>" class="blink"><?=$lang["support_back"]?></a>

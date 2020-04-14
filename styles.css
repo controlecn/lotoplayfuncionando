@@ -1,0 +1,258 @@
+form{margin:0;}
+
+.label1 {
+	color: #990033;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.label2 {
+	color: #005511;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.label2B {
+	color: #254394;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.label2R {
+	color: #990033;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.label3 {
+	color: #990033;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+.label4 {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+}
+
+.tabletoplabel {
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+}
+
+
+
+.inputField {
+	color: #005511;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	border: 1px solid #339999;
+	height: 21px;
+}
+
+.submitbutton {
+	color: #990033;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	height: 21px;
+}
+
+.errorField {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	border: 1px solid #FF0000;
+	height: 21px;
+}
+
+.errorField1 {
+	color: #FF0000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	border: 1px solid #FF0000;
+	height: 21px;
+}
+
+.linkSel {
+	color: #13358a;
+	text-decoration: underline;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.linkSel:hover {
+	color: #13358a;
+	text-decoration: underline;
+}
+
+.link {
+	color: #13358a;
+	text-decoration: underline;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.link:hover {
+	color: #13358a;
+	text-decoration: none;
+}
+
+.linkSm {
+	color: #13358a;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.linkSm:hover {
+	color: #13358a;
+	text-decoration: underline;
+}
+
+.menuLink {
+	color: #000000;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.menuLink:hover {
+	color: #000000;
+	text-decoration: none;
+}
+
+.tableBr {
+	border: 1px outset #77200e;
+}
+
+.labelTop {
+	color: #77200e;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+}
+.menuTopSEL{
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #305a00;
+	font-size: 14px;
+}
+.menuTop:hover {
+	text-decoration: underline;
+	color: #305a00;
+}
+.menuTop {
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 14px;
+}
+.menuTop:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+.menuTop22 {
+	text-decoration: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #13358a;
+	font-size: 14px;
+}
+.menuTop22:hover {
+	text-decoration: underline;
+	color: #13358a;
+}
+
+.bottomText {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #13358a;
+	text-decoration: underline;
+}
+.bottomText:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #13358a;
+	text-decoration: none;
+}
+
+.loginInput {
+	background-image: url(img/pt/inputBack.gif);
+	height: 19px;
+	width: 111px;
+	border: 1px solid #135a00;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.loginInput2 {
+	background-image: url(img/pt/inputBack.gif);
+	height: 19px;
+	width: 99px;
+	border: 1px solid #135a00;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.linkY {
+
+	color: #FFFF00;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+.linkY:hover {
+
+
+	color: #FFFF00;
+	text-decoration: underline;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.bluetext {
+	color: #13358a;
+	text-decoration: none;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.bottomText2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #003ea4;
+	text-decoration: none;
+}
+
+#scroll * {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	list-style-position: outside;
+	list-style-image: none;
+	list-style-type: none;
+	font-size: 0;
+	line-height: 0;
+	z-index: -1
+}

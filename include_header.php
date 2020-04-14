@@ -1,0 +1,1 @@
+<?include("include_settings.php");include("templates/$global_lang/alt.php");include("templates/$global_lang/titles.php");include("templates/$global_lang/strings.php");include("templates/$global_lang/header.php");?>

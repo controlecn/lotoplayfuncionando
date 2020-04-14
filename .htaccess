@@ -1,0 +1,160 @@
+##################################################
+### URL REWRITING
+##################################################
+
+Options +FollowSymLinks
+
+# Turn on the rewrite engine
+RewriteEngine On
+RewriteBase /
+
+# Games
+RewriteRule ^jogos\.html$ games.php [L]
+RewriteRule ^videobingo\.html$ games.php?page=videobingo [L]
+RewriteRule ^cacaniquel\.html$ games.php?page=slots [L]
+RewriteRule ^jogos_([A-Za-z0-9]{1,})_tela\.html$ games.php?page=game_$1_main [L]
+RewriteRule ^jogos_([A-Za-z0-9]{1,})_tour\.html$ games.php?page=game_$1_tour [L]
+RewriteRule ^jogos_([A-Za-z0-9]{1,})_teclado\.html$ games.php?page=game_$1_keyboard [L]
+
+# My Account
+RewriteRule ^conta\.html$ account.php [L]
+RewriteRule ^conta_alterar_senha_confirmar\.html\&key=([A-Za-z0-9]{1,})$ account.php?page=confirmchangepassword&key=$1 [L]
+RewriteRule ^conta_comprar\.html$ account.php?page=buy [L]
+RewriteRule ^conta_comprar\.html\&cmd=cancel\&id=([0-9]{1,})$ account.php?page=buy&cmd=cancel&id=$1 [L]
+RewriteRule ^conta_resgatar\.html$ account.php?page=payout [L]
+RewriteRule ^conta_resgatar\.html\&cmd=update$ account.php?page=payout&cmd=update [L]
+RewriteRule ^conta_resgatar_reverter\.html\&id=([0-9]{1,})$ account_payout_revert.php?id=$1 [L]
+RewriteRule ^conta_extrato\.html$ account.php?page=transfers [L]
+RewriteRule ^conta_mensagens\.html$ account.php?page=messages [L]
+RewriteRule ^conta_mensagens_deletar\.html\&id=([0-9]{1,})$ account_messages_delete.php?id=$1 [L]
+RewriteRule ^conta_resultados\.html$ account.php?page=results [L]
+RewriteRule ^conta_pontos\.html$ account.php?page=points [L]
+RewriteRule ^conta_pontos\.html\&cmd=get$ account.php?page=points&cmd=get [L]
+RewriteRule ^conta_amigos\.html$ account.php?page=friends [L]
+RewriteRule ^conta_amigos\.html\&cmd=send$ account.php?page=friends&cmd=send [L]
+RewriteRule ^conta_alterar\.html$ account.php?page=change [L]
+RewriteRule ^conta_alterar\.html\&cmd=update$ account.php?page=change&cmd=update [L]
+RewriteRule ^conta_alterar_senha\.html$ account.php?page=changepassword [L]
+RewriteRule ^conta_alterar_senha_upd\.html$ account.php?page=changepassword&cmd=update [L]
+RewriteRule ^conta_comprar_mostrar\.html\&cmd=show\&id=([0-9]{1,})$ account.php?page=buy_show&cmd=show&id=$1 [L]
+RewriteRule ^conta_comprar_mostrar\.html\&cmd=add$ account.php?page=buy_show&cmd=add [L]
+RewriteRule ^conta_comprar_mostrar\.html$ account.php?page=buy_show [L]
+RewriteRule ^sair\.html$ logout.php [L]
+
+# Affiliates
+RewriteRule ^afiliados\.html$ affliates.php [L]
+RewriteRule ^afiliados_cadastro\.html$ affliates.php?page=register [L]
+RewriteRule ^afiliados_cadastro_upd\.html$ affliates_register_upd.php [L]
+RewriteRule ^afiliados_cadastro_completo\.html$ affliates.php?page=register_complete [L]
+RewriteRule ^afiliados_login\.html$ affliates.php?page=login [L]
+RewriteRule ^afiliados_login\.html\&error=1$ affliates.php?page=login&error=1 [L]
+RewriteRule ^afiliados_vendas\.html$ affliates.php?page=sales [L]
+RewriteRule ^afiliados_clientes\.html$ affliates.php?page=clients [L]
+RewriteRule ^afiliados_banners\.html$ affliates.php?page=banners [L]
+RewriteRule ^afiliados_banners_salvar\.html\&id=([0-9]{1,})$ affliates.php?page=banners_save&id=$1 [L]
+RewriteRule ^afiliados_alterar\.html$ affliates.php?page=change [L]
+RewriteRule ^sair_afiliados\.html$ logout_affliate.php [L]
+
+# Registration
+RewriteRule ^cadastro\.html$ registration.php [L]
+RewriteRule ^cadastro_upd\.html$ registration_upd.php [L]
+RewriteRule ^cadastro_completo\.html$ registration_complete.php [L]
+
+# Promotions
+RewriteRule ^promocoes\.html$ promotions.php [L]
+RewriteRule ^promocoes_amigos\.html$ promotions.php?page=friends [L]
+RewriteRule ^promocoes_superrodadas\.html$ promotions.php?page=super_rounds [L]
+RewriteRule ^promocoes_bonus\.html$ promotions.php?page=bonus [L]
+RewriteRule ^promocoes_bonussurpresa\.html$ promotions.php?page=surprise_bonus [L]
+RewriteRule ^promocoes_vip\.html$ promotions.php?page=vip [L]
+RewriteRule ^promocoes_rodadasgratuidas\.html$ promotions.php?page=free_rounds [L]
+RewriteRule ^promocoes_mes\.html$ promotions.php?page=month [L]
+
+# Support
+RewriteRule ^suporte\.html$ support.php [L]
+RewriteRule ^suporte_faq\.html$ support.php?page=faq [L]
+RewriteRule ^suporte_faq\.html\&category=([0-9]{1,})$ support.php?page=faq&category=$1 [L]
+RewriteRule ^suporte_regras\.html$ support.php?page=rules [L]
+RewriteRule ^suporte_noticias\.html$ support.php?page=news [L]
+RewriteRule ^suporte_quemsomos\.html$ support.php?page=aboutus [L]
+RewriteRule ^suporte_faleconosco\.html$ support.php?page=contactus [L]
+RewriteRule ^suporte_faleconosco_upd\.html$ support.php?page=contactus_upd [L]
+RewriteRule ^suporte_dicas\.html$ support.php?page=advice [L]
+RewriteRule ^suporte_testemunhas\.html$ support.php?page=testimonials [L]
+
+# Forgot Password
+RewriteRule ^esquecisenha\.html$ forgot_password.php [L]
+RewriteRule ^esquecisenha\.html\&affliate=1$ forgot_password.php?affliate=1 [L]
+RewriteRule ^esquecisenha\.html\&cmd=update\&affliate=1$ forgot_password.php?cmd=update&affliate=1 [L]
+RewriteRule ^esquecisenha\.html\&cmd=update$ forgot_password.php?cmd=update [L]
+
+# Login Update
+RewriteRule ^login\.html$ login_update.php [L]
+RewriteRule ^login_afiliados\.html$ login_update_affliate.php [L]
+
+# HH
+RewriteRule ^bingo\.html$ index.php [L]
+RewriteRule ^bingos\.html$ index.php [L]
+RewriteRule ^online\.html$ games.php?page=videobingo [L]
+RewriteRule ^videobingo1\.html$ games.php?page=videobingo [L]
+
+##################################################
+### ERROR DOCUMENTS
+##################################################
+
+# 404: File Not Found
+ErrorDocument 403 /404.php
+ErrorDocument 404 /404.php
+
+##################################################
+### SECURITY
+##################################################
+
+# Disable directory browsing
+Options All -Indexes
+
+# Disable access to files
+<FilesMatch "\.(htaccess|htpasswd|ini|phps|fla|psd|log|sh)$">
+ Order Allow,Deny
+ Deny from all
+</FilesMatch>
+
+# Disable access (ACCOUNT)
+<Files ~ "account_activate.php|account_buy.php|account_buy_show.php|account_change.php|account_changepassword.php|account_friends.php|account_login.php|account_main.php|account_payout.php|account_points.php|account_results.php|account_transfers.php">
+	Order allow,deny
+	Deny from all
+</Files>
+
+# Disable access (AFFILIATES)
+<Files ~ "affliates_activate.php|affliates_logged_banners.php|affliates_logged_change.php|affliates_logged_clients.php|affliates_logged_main.php|affliates_logged_pages.php|affliates_logged_sales.php|affliates_login.php|affliates_main.php|affliates_register.php|affliates_register_complete.php|affliates_rules.php">
+	Order allow,deny
+	Deny from all
+</Files>
+
+# Disable access (GAMES)
+<Files ~ "games_game_keyboard.php|games_game_main.php|games_game_tour.php|games_main.php|games_slots.php|games_videobingo.php">
+	Order allow,deny
+	Deny from all
+</Files>
+
+# Disable access (INCLUDES)
+<Files ~ "include_bottom.php|include_class_phpmailer.php|include_class_pop3.php|include_class_smtp.php|include_functions.php|include_google_analytics.php|include_header.php|include_ip2c.php|include_langdetect.php|include_session.php|include_settings.php">
+	Order allow,deny
+	Deny from all
+</Files>
+
+# Disable access (PROMOTIONS)
+<Files ~ "promotions_bonus.php|promotions_free_rounds.php|promotions_friends.php|promotions_main.php|promotions_month.php|promotions_super_rounds.php|promotions_surprise_bonus.php|promotions_vip.php">
+	Order allow,deny
+	Deny from all
+</Files>
+
+# Disable access (SUPPORT)
+<Files ~ "support_aboutus.php|support_advice.php|support_contactus.php|support_contactus_upd.php|support_faq.php|support_main.php|support_news.php|support_rules.php|support_testimonials.php">
+	Order allow,deny
+	Deny from all
+</Files>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Este domínio herda o pacote “PHP”.
+# php -- END cPanel-generated handler, do not edit

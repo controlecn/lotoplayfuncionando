@@ -1,0 +1,38 @@
+<?
+
+include('../include_functions.php');
+checkAccess(2);
+include('../include_guifunctions.php');
+gui_header("Notícias - Editar", "../");
+
+$id = $_GET["id"];
+
+$sql = "SELECT * FROM news WHERE id = '$id'";
+
+$result = mysql_query($sql, $mysql_link);
+
+if ($result) {
+	$row = mysql_fetch_array($result);
+	$headline = $row["headline"];
+	$story = $row["story"];
+	mysql_free_result($result);
+}
+
+?>
+<form name="updateForm" id="updateForm" method="POST" action="news_edit_upd.php">
+<font class="tabletop">
+
+Titulo:<br>
+<input class="tabletext" type="text" name="headline" style="width: 360px" value="<?=$headline?>">
+<br><br>
+
+Noticia:<br>
+<textarea class="tabletext" style="height: 140px; width: 360px" name="story"><?=$story?></textarea>
+<br><br>
+
+<input type="submit" value="Editar" name="submitbutton">
+
+</font>
+<input type="hidden" name="id" value="<?=$id?>">
+</form>
+<? gui_bottom(); ?>

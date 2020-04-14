@@ -1,0 +1,7 @@
+<br /><a href="%%LINK%%" class="link">Clique aqui para se cadastrar!</a><br />
+
+<br /><span class="email_text"><b>Obrigado,</b><br />
+%%SEND_NAME%%
+</span>
+</body>
+</html>

@@ -1,0 +1,1 @@
+<? include("templates/$global_lang/bottom.php"); ?>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+  <site-control permitted-cross-domain-policies="master-only"/>
+  <allow-access-from domain="criativawebsites.com.br/lotoplay" to-ports="9091"/>
+  <allow-access-from domain="www.reidobingo-net.umbler.net/lotoplay" to-ports="9091"/>
+</cross-domain-policy>

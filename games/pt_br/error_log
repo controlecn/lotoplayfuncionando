@@ -1,0 +1,70 @@
+[04-Dec-2016 14:03:07 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:03:07 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:03:07 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:03:07 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:03:07 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:06:04 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:06:04 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:06:04 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:06:04 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:06:04 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:07:57 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:07:57 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:07:57 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:07:57 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:07:57 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:08:57 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:08:57 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:08:57 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:08:57 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:08:57 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:12:31 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:12:31 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:12:31 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:12:31 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:12:31 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:15:14 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:15:14 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:15:14 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:15:14 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:15:14 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:19:31 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:19:31 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:19:31 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:19:31 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:19:31 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:20:41 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:20:41 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:20:41 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:20:41 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:20:41 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:31:00 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:31:00 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:31:00 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:31:00 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:31:00 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:32:28 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:32:28 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:32:28 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:32:28 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:32:28 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:36:12 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:36:12 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:36:12 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:36:12 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:36:12 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:40:36 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:40:36 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:40:36 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:40:36 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:40:36 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 14:40:51 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 14:40:51 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:40:51 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 14:40:51 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 14:40:51 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6
+[04-Dec-2016 15:00:09 America/Sao_Paulo] PHP Deprecated:  Function ereg() is deprecated in /home/eliana/public_html/include_langdetect.php on line 9
+[04-Dec-2016 15:00:09 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 15:00:09 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/games/pt_br/index.php:0
+[04-Dec-2016 15:00:09 America/Sao_Paulo] PHP   2. include() /home/eliana/public_html/games/pt_br/index.php:4
+[04-Dec-2016 15:00:09 America/Sao_Paulo] PHP   3. include() /home/eliana/public_html/include_settings.php:6

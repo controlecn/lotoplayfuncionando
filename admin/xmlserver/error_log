@@ -1,0 +1,300 @@
+[04-Dec-2016 14:42:51 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:42:51 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:42:51 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:42:51 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:43:07 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:43:07 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:43:07 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:43:07 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:43:24 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:43:24 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:43:24 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:43:24 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:43:47 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:43:47 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:43:47 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:43:47 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:43:57 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:44:05 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:44:05 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:44:05 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:44:05 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:44:22 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:44:22 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:44:22 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:44:22 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:44:39 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:44:39 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:44:39 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:44:39 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:44:53 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:44:56 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:44:56 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:44:56 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:44:56 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:45:16 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:45:16 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:45:16 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:45:16 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:45:32 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:45:32 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:45:32 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:45:32 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:45:49 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:45:49 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:45:49 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:45:49 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:46:06 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:46:06 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:06 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:46:06 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:46:08 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:46:11 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:46:23 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:46:23 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:23 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:46:23 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:46:40 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:46:40 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:40 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:46:40 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:46:54 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:46:57 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:46:57 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:46:57 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:46:57 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:47:14 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:47:14 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:14 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:47:14 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:47:31 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:47:31 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:31 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:47:31 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:47:48 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:47:48 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:48 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:47:48 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:47:49 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:47:52 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:47:55 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:48:05 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:48:05 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:48:05 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:48:05 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:48:22 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:48:22 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:48:22 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:48:22 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:48:39 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:48:39 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:48:39 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:48:39 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:48:56 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:48:56 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:48:56 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:48:56 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:49:13 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:49:13 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:49:13 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:49:13 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:49:30 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:49:30 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:49:30 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:49:30 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:49:47 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:49:47 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:49:47 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:49:47 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:50:02 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:50:04 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:50:04 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:50:04 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:50:04 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:50:06 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:50:21 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:50:21 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:50:21 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:50:21 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:50:38 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:50:38 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:50:38 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:50:38 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:50:55 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:50:55 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:50:55 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:50:55 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:51:13 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:51:25 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:51:30 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:51:30 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:51:30 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:51:30 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:51:47 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:51:47 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:51:47 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:51:47 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:52:05 America/Sao_Paulo] PHP Warning:  fsockopen() [<a href='function.fsockopen'>function.fsockopen</a>]: unable to connect to reidobingo-net.umbler.net:1024 (Connection refused) in /home/eliana/public_html/admin/xmlserver/xmlserver2.php on line 105
+[04-Dec-2016 14:52:05 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:52:05 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:0
+[04-Dec-2016 14:52:05 America/Sao_Paulo] PHP   2. fsockopen() /home/eliana/public_html/admin/xmlserver/xmlserver2.php:105
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:59:54 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net on port 22 in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP Warning:  ssh2_connect() [<a href='function.ssh2-connect'>function.ssh2-connect</a>]: Unable to connect to reidobingo-net.umbler.net in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 6
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP   2. ssh2_connect() /home/eliana/public_html/admin/xmlserver/xml_start.php:6
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP Warning:  ssh2_auth_pubkey_file() expects parameter 1 to be resource, boolean given in /home/eliana/public_html/admin/xmlserver/xml_start.php on line 10
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP Stack trace:
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP   1. {main}() /home/eliana/public_html/admin/xmlserver/xml_start.php:0
+[04-Dec-2016 14:59:58 America/Sao_Paulo] PHP   2. ssh2_auth_pubkey_file() /home/eliana/public_html/admin/xmlserver/xml_start.php:10

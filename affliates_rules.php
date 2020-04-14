@@ -1,0 +1,1 @@
+<? showContent("AFFLIATES_RULES"); ?>
