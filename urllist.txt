@@ -16,5 +16,5 @@
 #
 # Example contents of the file:
 #
-http://www.reidobingo-net.umbler.net/lotoplay/
+http://www.reidobingo-net.umbler.net/
 

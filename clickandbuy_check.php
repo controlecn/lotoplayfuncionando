@@ -217,6 +217,6 @@ if (GetRow("SELECT COUNT(id) FROM transfers_buy WHERE id = '$externalBDRID'")!=0
 	
 }
 
-header('Location: http://www.reidobingo-net.umbler.net/lotoplay/clickandbuy_return.php?result=' . $successString . '&externalBDRID=' . $externalBDRID . '&info=' . $reason);
+header('Location: http://www.reidobingo-net.umbler.net/clickandbuy_return.php?result=' . $successString . '&externalBDRID=' . $externalBDRID . '&info=' . $reason);
 
 ?>

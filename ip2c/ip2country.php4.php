@@ -45,10 +45,10 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 class ip2country {
 
-	var $mysql_host='reidobingo-net.umbler.net';
-	var $db_name='ip2c';
-	var $db_user='user';
-	var $db_pass='';
+	var $mysql_host='mysql873.umbler.com';
+	var $db_name='luckprize';
+	var $db_user='luckpriz';
+	var $db_pass='190290ff';
 	var $table_name='ip2c';
 
 	var $ip_num=0;

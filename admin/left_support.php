@@ -52,8 +52,8 @@ menuItem2("IP Ban", "security/ban_ip.php",2);
 menuItem2("Email Ban", "security/ban_email.php",2);
 menuItemDropDownEnd(2);
 
-menuItem("Forum", "https://www.reidobingo-net.umbler.net/lotoplay/admin_mais_complicado/forum/",1);
-//menuItem("Programa de avisos", "https://www.reidobingo-net.umbler.net/lotoplay/admin_mais_complicado/LPTray.exe",1);
+menuItem("Forum", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/forum/",1);
+//menuItem("Programa de avisos", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/LPTray.exe",1);
 
 menuItemDropDown("Log",2);
 menuItem2("Admin Log", "log/admin_log.php",2);
@@ -61,11 +61,11 @@ menuItem2("Chat Log", "log/phplive_log.php",2);
 menuItemDropDownEnd(2);
 
 menuItemDropDown("Cursos",1);
-menuItem2("Compras", "https://www.reidobingo-net.umbler.net/lotoplay/admin_mais_complicado/cursos/compras.swf",1);
-menuItem2("Fraude e Commentários", "https://www.reidobingo-net.umbler.net/lotoplay/admin_mais_complicado/cursos/mudancas.swf",1);
-menuItem2("Chat", "https://www.reidobingo-net.umbler.net/lotoplay/admin_mais_complicado/cursos/sistema.swf",1);
-menuItem2("Regras (PDF)", "https://www.reidobingo-net.umbler.net/lotoplay/admin_mais_complicado/cursos/regras.pdf",1);
-menuItem2("Regras (HTML)", "https://www.criativawebsites.com.br/lotoplay/admin_mais_complicado/cursos/regras.html",1);
+menuItem2("Compras", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/cursos/compras.swf",1);
+menuItem2("Fraude e Commentários", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/cursos/mudancas.swf",1);
+menuItem2("Chat", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/cursos/sistema.swf",1);
+menuItem2("Regras (PDF)", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/cursos/regras.pdf",1);
+menuItem2("Regras (HTML)", "https://www.criativawebsites.com.br/admin_mais_complicado/cursos/regras.html",1);
 menuItemDropDownEnd(1);
 
 ?>

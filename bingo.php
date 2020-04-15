@@ -59,7 +59,7 @@
 		<li><a href="http://www.reidobingo-net.umbler.net/prizes.php" title="BINGO">PREMIACAO VIDEO BINGOS</a></li>
 		<li><a href="http://www.reidobingo-net.umbler.net/contacts.php" title="CONTATE-NOS">CONTATE-NOS</a></li>
 		<li><a href="http://www.reidobingo-net.umbler.net/games.php" title="PR�MIOS">ACUMULADOS</a></li>
-		<li><a href="http://www.reidobingo-net.umbler.net/lotoplay/bingo.html" title="BINGO">BINGO VIDEO ONLINE LOTERIAS</a></li>
+		<li><a href="http://www.reidobingo-net.umbler.net/bingo.html" title="BINGO">BINGO VIDEO ONLINE LOTERIAS</a></li>
 		<li><a href="http://www.reidobingo-net.umbler.net/help.php" title="AJUDA">AJUDA</a></li>
 		<li><a href="http://www.reidobingo-net.umbler.net/registration.php" title="CADASTRE-SE">CADASTRE-SE GR�TIS</a></li>
 		<li><a href="http://www.reidobingo-net.umbler.net/games.php" title="GAMES">JOGAR BINGO PROMOCAO VIDEO BINGO BONUS</a></li>

@@ -7,7 +7,7 @@ checkAccess(1);
 
 gui_header("Configuração do Servidor", "../");
 
-$fp = @fsockopen("reidobingo-net.umbler.net", $config["server_port"], $errno, $errstr, 10);
+$fp = @fsockopen("localhost", $config["server_port"], $errno, $errstr, 10);
 
 if (!$fp) {
 	$servidor = 0;
@@ -41,6 +41,7 @@ if (!$fp) {
 <form method="POST" action="xml_rebuild.php" onSubmit="return confirm('Tem certeza?');">
 <input type="submit" name="submitbutton" value="Rebuild" class="tabletop">
 </form>
+
 <? } ?>
 
 <? gui_bottom(); ?>

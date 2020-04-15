@@ -43,7 +43,7 @@ if (($_GET["cmd"]=="send")&&(form_key_verify("ACCOUNT_FRIENDS", sql_injection_ch
 	if ($has_errors==0) {
 		$friendId = sqlQuery("INSERT INTO users_friends (userId,name,email,percentage,addedWhen) VALUES (".$user_data["id"].", '".addslashes($name)."', '".addslashes($email)."', 0, NOW())");
 		$subject = GetRow("SELECT subject FROM emails WHERE code = 'FRIENDS_EMAIL'");
-		$link = "http://www.reidobingo-net.umbler.net/lotoplay/?f=$friendId";
+		$link = "http://www.reidobingo-net.umbler.net/?f=$friendId";
 		
 		$email_header = join("", file("templates/$global_lang/email_friends_header.txt"));
 		$email_footer = join("", file("templates/$global_lang/email_friends_footer.txt"));

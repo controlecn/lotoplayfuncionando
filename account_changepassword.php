@@ -56,7 +56,7 @@ if (($_GET["cmd"]=="update")&&(form_key_verify("ACCOUNT_CHANGEPASSWORD", sql_inj
 		$emailSubject = GetRow("SELECT subject FROM emails WHERE code = 'CHANGE_PASSWORD'");
 		$emailContent = GetRow("SELECT content FROM emails WHERE code = 'CHANGE_PASSWORD'");
 
-		$emailContent = str_replace("%%LINK%%", "http://www.reidobingo-net.umbler.net/lotoplay/".$links["ACCOUNT_CONFIRM_CHANGEPASSWORD"].$qr."key=$key", $emailContent);
+		$emailContent = str_replace("%%LINK%%", "http://www.reidobingo-net.umbler.net/".$links["ACCOUNT_CONFIRM_CHANGEPASSWORD"].$qr."key=$key", $emailContent);
 
 		send_email($user_data["email"], $emailSubject, $emailContent);	
 		

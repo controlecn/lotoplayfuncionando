@@ -27,33 +27,33 @@
  
 	<dl>
 		<dt>Bingos e jogos on line?</dt>
-		<dd><a href="http://www.reidobingo-net.umbler.net/lotoplay/videobingo.html">voce joga se diverte e ganha de verdade, se diversao em jogos on line,  passa tempo!</a></dd>
+		<dd><a href="http://www.reidobingo-net.umbler.net/videobingo.html">voce joga se diverte e ganha de verdade, se diversao em jogos on line,  passa tempo!</a></dd>
 	</dl>
  
 	<dl>
 		<dt>Bingo, games online?</dt>
  
-		<dd><a href="http://www.reidobingo-net.umbler.net/lotoplay/bingo.html">Games Online e todos os jogos de Bingo online voce joga 24 horas bingo vip!</a></dd>
+		<dd><a href="http://www.reidobingo-net.umbler.net/bingo.html">Games Online e todos os jogos de Bingo online voce joga 24 horas bingo vip!</a></dd>
 	</dl>
 	
 	<dl>
 		<dt>video bingo online?</dt>
-		<dd><a href="http://www.reidobingo-net.umbler.net/lotoplay/games.php">Todos os jogos de bingo online: bingo 75 bolas, super Bingo 75, tesouros do mar, superbingo, bingomaster, bingo master, mania das frutas, video poker, bingo 2008 on line</a></dd>
+		<dd><a href="http://www.reidobingo-net.umbler.net/games.php">Todos os jogos de bingo online: bingo 75 bolas, super Bingo 75, tesouros do mar, superbingo, bingomaster, bingo master, mania das frutas, video poker, bingo 2008 on line</a></dd>
 	</dl>
  
 	<ul>
  
-		<li><a href="http://www.reidobingo-net.umbler.net/lotoplay/affliates.php">afiliados</a></li>
-		<li><a href="http://www.reidobingo-net.umbler.net/lotoplay/account.php">conta</a></li>
-		<li><a href="http://www.reidobingo-net.umbler.net/lotoplay/promotions.php?page=friends">amigos nos jogos</a></li>
-		<li><a href="http://www.reidobingo-net.umbler.net/lotoplay/support.php?page=news">noticias on line</a></li>
-		<li><a href="http://www.reidobingo-net.umbler.net/lotoplay/promotions.php">premios de bingos</a></li>
-		<li><a href="http://www.reidobingo-net.umbler.net/lotoplay/games.php">jogos on line</a>
+		<li><a href="http://www.reidobingo-net.umbler.net/affliates.php">afiliados</a></li>
+		<li><a href="http://www.reidobingo-net.umbler.net/account.php">conta</a></li>
+		<li><a href="http://www.reidobingo-net.umbler.net/promotions.php?page=friends">amigos nos jogos</a></li>
+		<li><a href="http://www.reidobingo-net.umbler.net/support.php?page=news">noticias on line</a></li>
+		<li><a href="http://www.reidobingo-net.umbler.net/promotions.php">premios de bingos</a></li>
+		<li><a href="http://www.reidobingo-net.umbler.net/games.php">jogos on line</a>
  
 		</li>
-		<li><a href="http://www.reidobingo-net.umbler.net/lotoplay/support.php">ajuda on line</a></li>
-		<li><a href="http://www.reidobingo-net.umbler.net/lotoplay/registration.php">cadastre-se</a></li>
-		<li><a href="http://www.reidobingo-net.umbler.net/lotoplay/bingo.php">bingo</a></li>
+		<li><a href="http://www.reidobingo-net.umbler.net/support.php">ajuda on line</a></li>
+		<li><a href="http://www.reidobingo-net.umbler.net/registration.php">cadastre-se</a></li>
+		<li><a href="http://www.reidobingo-net.umbler.net/bingo.php">bingo</a></li>
 	</ul>
 </div>
  
@@ -150,7 +150,7 @@
 	<td align="center"><img src="img/pt_br/bottom_ico_nospy.gif" border="0" alt="No Spyware" /></td>
     <td align="center"><img src="img/pt_br/bottom_ico_18.gif" border="0" alt="jogos proibido a menores de 18 anos" /></td>
     <td align="center"><a href="http://www.gamblingtherapy.org/pt-PT/Default.aspx" target="_blank"><img src="img/pt_br/bottom_ico_gamblers.gif" border="0" alt="Jogo Legal de bingo e vido bingo on line" /></a></td>
-    <td align="right"><a href="http://www.reidobingo-net.umbler.net/lotoplay/support/request.php?l=lotop&amp;x=1&amp;deptid=1" target="_blank"><img src="img/pt_br/bottom_ico_support.gif" border="0" alt="Suporte 24 horas bingos e video bingos" /></a></td>
+    <td align="right"><a href="http://www.reidobingo-net.umbler.net/support/request.php?l=lotop&amp;x=1&amp;deptid=1" target="_blank"><img src="img/pt_br/bottom_ico_support.gif" border="0" alt="Suporte 24 horas bingos e video bingos" /></a></td>
   </tr>
 </table>
 </div>
@@ -163,20 +163,20 @@
  
 <ul type="disc" style="margin: 0px; padding: 0px">
 	<li>
-		<a href="http://www.reidobingo-net.umbler.net/lotoplay/support.php?page=aboutus" class="blink_small">Sobre o LotoPlay bingo</a> - 
-		<a href="http://www.reidobingo-net.umbler.net/lotoplay/support.php?page=advice" class="blink_small">Jogo Legal video</a> - 
-		<a href="http://www.reidobingo-net.umbler.net/lotoplay/bingo.html" class="blink_small">Regras</a> - 
-		<a href="http://www.reidobingo-net.umbler.net/lotoplay/support.php?page=news" class="blink_small">Noti?cias online</a> - 
-		<a href="http://www.reidobingo-net.umbler.net/lotoplay/support.php?page=contactus" class="blink_small">Contatos</a><br />
-		<a href="http://www.reidobingo-net.umbler.net/lotoplay/bingos.html" class="blink_small">games online</a>
-		<a href="http://www.reidobingo-net.umbler.net/lotoplay/videobingos.html" class="blink_small">bingos</a>
+		<a href="http://www.reidobingo-net.umbler.net/support.php?page=aboutus" class="blink_small">Sobre o LotoPlay bingo</a> - 
+		<a href="http://www.reidobingo-net.umbler.net/support.php?page=advice" class="blink_small">Jogo Legal video</a> - 
+		<a href="http://www.reidobingo-net.umbler.net/bingo.html" class="blink_small">Regras</a> - 
+		<a href="http://www.reidobingo-net.umbler.net/support.php?page=news" class="blink_small">Noti?cias online</a> - 
+		<a href="http://www.reidobingo-net.umbler.net/support.php?page=contactus" class="blink_small">Contatos</a><br />
+		<a href="http://www.reidobingo-net.umbler.net/bingos.html" class="blink_small">games online</a>
+		<a href="http://www.reidobingo-net.umbler.net/videobingos.html" class="blink_small">bingos</a>
 		<a href="http://www.pokerstars.com" class="blink_small">poker online</a>
 		<a href="http://www.reidobingo-net.umbler.net/lotoplay" class="blink_small">bingo</a>
-		<a href="http://www.reidobingo-net.umbler.net/lotoplay/jogos.html" class="blink_small">jogos online</a>
-		<a href="http://www.reidobingo-net.umbler.net/lotoplay/video bingo.html" class="blink_small">video bingo</a> 
-		<a href="http://criativawebsites.com.br/lotoplay/videobingos.html" class="blink_small">blog bingos</a>
+		<a href="http://www.reidobingo-net.umbler.net/jogos.html" class="blink_small">jogos online</a>
+		<a href="http://www.reidobingo-net.umbler.net/video bingo.html" class="blink_small">video bingo</a> 
+		<a href="http://criativawebsites.com.br/videobingos.html" class="blink_small">blog bingos</a>
 		<a href="http://www.cnn.com/" class="blink_small">noticias on line</a>
-		<a href="http://www.reidobingo-net.umbler.net/lotoplay/ta.html" target="_blank" class="blink_small">Passa Tempo TOPA OU NAO TOPA</a><br />
+		<a href="http://www.reidobingo-net.umbler.net/ta.html" target="_blank" class="blink_small">Passa Tempo TOPA OU NAO TOPA</a><br />
 	</li>
 </ul>
  

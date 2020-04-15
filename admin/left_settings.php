@@ -40,7 +40,7 @@ menuItem2("Testemunhas", "settings/testimonials.php",2);
 menuItem2("Dicas", "settings/advice.php",2);
 menuItemDropDownEnd(2);
 
-menuItem($lang_leftmenu_cpanel, "http://www.reidobingo-net.umbler.net/lotoplay/cpanel/",2);
+menuItem($lang_leftmenu_cpanel, "http://www.reidobingo-net.umbler.net/cpanel/",2);
 
 ?>
 </table>

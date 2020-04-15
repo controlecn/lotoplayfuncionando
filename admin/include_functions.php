@@ -3,10 +3,10 @@
 ini_set('expose_php', 0);
 error_reporting(E_ALL ^ E_NOTICE);
 
-$config["mysql_host"] = "reidobingo-net.umbler.net";
-$config["mysql_user"] = "eliana_bingo";
-$config["mysql_pass"] = "edizio@29";
-$config["mysql_data"] = "eliana_bingo";
+$config["mysql_host"] = "mysql873.umbler.com";
+$config["mysql_user"] = "luckpriz";
+$config["mysql_pass"] = "190290ff";
+$config["mysql_data"] = "luckprize";
 $config["server_port"] = "";
 $config["static_url"] = "http://reidobingo-net.umbler.net/";
 $config["support_url"] = $config["static_url"] . "support/request.php?l=lotop&x=1&deptid=1";
@@ -123,7 +123,7 @@ function checkAccess($accesso) {
 	if (($accesso==2) && ($access==2)) $show = 1;
 	
 	if ($show!=1) {
-		Header("Location: https://www.reidobingo-net.umbler.net/lotoplay/admin_mais_complicado/accesso_restrito.htm");
+		Header("Location: https://www.reidobingo-net.umbler.net/admin_mais_complicado/accesso_restrito.htm");
 	}
 
 }
