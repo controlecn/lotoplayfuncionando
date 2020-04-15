@@ -4,8 +4,8 @@ function aefheader($title = ''){
 
 global $theme, $user, $logged_in, $globals, $l, $dmenus, $onload, $newslinks, $feeds;
 	
-	$theme['url'] = "https://www.reidobingo-net.umbler.net/admin_mais_complicado/forum/themes/default";
-	$theme['images'] = "https://www.reidobingo-net.umbler.net/admin_mais_complicado/forum/themes/default/images/";
+	$theme['url'] = "http://reidobingo-net.umbler.net/admin_mais_complicado/forum/themes/default";
+	$theme['images'] = "http://reidobingo-net.umbler.net/admin_mais_complicado/forum/themes/default/images/";
 
 	$title = ((empty($title)) ? $globals['sn'] : $title);
 	

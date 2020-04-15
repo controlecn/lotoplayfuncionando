@@ -17,7 +17,7 @@
     <td><img src="img/<?=$global_lang?>/bottom_ico_visa.gif" alt="Visa compra de creditos on line para bingos no lotoplay.com" /></td>
 	<td><img src="img/<?=$global_lang?>/bottom_ico_master.gif" alt="MasterCard" /></td>
 	<td><img src="img/<?=$global_lang?>/bottom_ico_bank.gif" alt="Bank Transfer" /></td>
-    <td align="center"><a href="https://www.reidobingo-net.umbler.net"><img src="img/<?=$global_lang?>/bottom_ico_128bit.gif" border="0" alt="Site Seguro" /></a></td>
+    <td align="center"><a href="http://reidobingo-net.umbler.net"><img src="img/<?=$global_lang?>/bottom_ico_128bit.gif" border="0" alt="Site Seguro" /></a></td>
     <td align="center"><img src="img/<?=$global_lang?>/bottom_ico_moneybookers.gif" border="0" alt="Moneybookers compra e venda de creditos on line para lotoplay.com" /></td>
 	<td align="center"><img src="img/<?=$global_lang?>/bottom_ico_nospy.gif" border="0" alt="No Spyware" /></td>
     <td align="center"><img src="img/<?=$global_lang?>/bottom_ico_18.gif" border="0" alt="jogos proibido a menores de 18 anos" /></td>

@@ -60,7 +60,7 @@
 <?php
 	elseif ( ( $action == "compras" )):
 ?>
-<iframe src ="https://www.reidobingo-net.umbler.net/admin_mais_complicado/payments/transfers_buy2.php" width="95%" height="180" frameborder="0"></iframe>
+<iframe src ="http://reidobingo-net.umbler.net/admin_mais_complicado/payments/transfers_buy2.php" width="95%" height="180" frameborder="0"></iframe>
 
 
 <?php
@@ -114,15 +114,15 @@
 
 
 <?php elseif ( $action == "creditos" ): ?>
-<iframe src ="https://www.reidobingo-net.umbler.net/admin_mais_complicado/chat/creditos.php?username=<?php echo strip_tags($requestinfo['from_screen_name']) ?>&email=<?php echo strip_tags($requestinfo['email']) ?>" width="95%" height="180" frameborder="0"></iframe>
+<iframe src ="http://reidobingo-net.umbler.net/admin_mais_complicado/chat/creditos.php?username=<?php echo strip_tags($requestinfo['from_screen_name']) ?>&email=<?php echo strip_tags($requestinfo['email']) ?>" width="95%" height="180" frameborder="0"></iframe>
 <?php elseif ( $action == "saques" ): ?>
-<iframe src ="https://www.reidobingo-net.umbler.net/admin_mais_complicado/payments/payout2.php" width="95%" height="180" frameborder="0"></iframe>
+<iframe src ="http://reidobingo-net.umbler.net/admin_mais_complicado/payments/payout2.php" width="95%" height="180" frameborder="0"></iframe>
 <?php elseif ( $action == "alerts" ): ?>
-<iframe src ="https://www.reidobingo-net.umbler.net/admin_mais_complicado/chat/alerts.php?username=<?php echo strip_tags($requestinfo['from_screen_name']) ?>&email=<?php echo strip_tags($requestinfo['email']) ?>" width="95%" height="180" frameborder="0"></iframe>
+<iframe src ="http://reidobingo-net.umbler.net/admin_mais_complicado/chat/alerts.php?username=<?php echo strip_tags($requestinfo['from_screen_name']) ?>&email=<?php echo strip_tags($requestinfo['email']) ?>" width="95%" height="180" frameborder="0"></iframe>
 <?php elseif ( $action == "comments" ): ?>
-<iframe src ="https://www.reidobingo-net.umbler.net/admin_mais_complicado/chat/comments.php?username=<?php echo strip_tags($requestinfo['from_screen_name']) ?>&email=<?php echo strip_tags($requestinfo['email']) ?>" width="95%" height="180" frameborder="0"></iframe>
+<iframe src ="http://reidobingo-net.umbler.net/admin_mais_complicado/chat/comments.php?username=<?php echo strip_tags($requestinfo['from_screen_name']) ?>&email=<?php echo strip_tags($requestinfo['email']) ?>" width="95%" height="180" frameborder="0"></iframe>
 <?php else: ?>
-<iframe src ="https://www.reidobingo-net.umbler.net/admin_mais_complicado/chat/userinfo.php?username=<?php echo strip_tags($requestinfo['from_screen_name']) ?>&email=<?php echo strip_tags($requestinfo['email']) ?>" width="95%" height="180" frameborder="0"></iframe>
+<iframe src ="http://reidobingo-net.umbler.net/admin_mais_complicado/chat/userinfo.php?username=<?php echo strip_tags($requestinfo['from_screen_name']) ?>&email=<?php echo strip_tags($requestinfo['email']) ?>" width="95%" height="180" frameborder="0"></iframe>
 <?php endif ; ?>
 </body>
 </html>

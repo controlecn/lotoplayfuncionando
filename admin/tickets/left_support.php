@@ -52,7 +52,7 @@ menuItem2("IP Ban", "security/ban_ip.php",2);
 menuItem2("Email Ban", "security/ban_email.php",2);
 menuItemDropDownEnd(2);
 
-menuItem("Programa de avisos", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/LPTray.exe",1);
+menuItem("Programa de avisos", "http://reidobingo-net.umbler.net/admin_mais_complicado/LPTray.exe",1);
 
 menuItemDropDown("Log",2);
 menuItem2("Admin Log", "log/admin_log.php",2);
@@ -60,11 +60,11 @@ menuItem2("Chat Log", "log/phplive_log.php",2);
 menuItemDropDownEnd(2);
 
 menuItemDropDown("Cursos",1);
-menuItem2("Compras", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/cursos/compras.swf",1);
-menuItem2("Fraude e Commentários", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/cursos/mudancas.swf",1);
-menuItem2("Chat", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/cursos/sistema.swf",1);
-menuItem2("Regras (PDF)", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/cursos/regras.pdf",1);
-menuItem2("Regras (HTML)", "https://www.reidobingo-net.umbler.net/admin_mais_complicado/cursos/regras.html",1);
+menuItem2("Compras", "http://reidobingo-net.umbler.net/admin_mais_complicado/cursos/compras.swf",1);
+menuItem2("Fraude e Commentários", "http://reidobingo-net.umbler.net/admin_mais_complicado/cursos/mudancas.swf",1);
+menuItem2("Chat", "http://reidobingo-net.umbler.net/admin_mais_complicado/cursos/sistema.swf",1);
+menuItem2("Regras (PDF)", "http://reidobingo-net.umbler.net/admin_mais_complicado/cursos/regras.pdf",1);
+menuItem2("Regras (HTML)", "http://reidobingo-net.umbler.net/admin_mais_complicado/cursos/regras.html",1);
 menuItemDropDownEnd(1);
 
 ?>

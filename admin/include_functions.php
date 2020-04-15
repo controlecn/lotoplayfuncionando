@@ -123,7 +123,7 @@ function checkAccess($accesso) {
 	if (($accesso==2) && ($access==2)) $show = 1;
 	
 	if ($show!=1) {
-		Header("Location: https://www.reidobingo-net.umbler.net/admin_mais_complicado/accesso_restrito.htm");
+		Header("Location: http://reidobingo-net.umbler.net/admin_mais_complicado/accesso_restrito.htm");
 	}
 
 }

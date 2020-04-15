@@ -94,7 +94,7 @@
                 <td height="26" background="img/pt/menu.gif" align="center"><a href="games.php" class="menuTop">Nossos 
                   Jogos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
                   <a href="account.php" class="menuTop">Minha Conta</a>
-		  							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.reidobingo-net.umbler.net/registration.php" class="menuTop">Cadastre-se</a>
+		  							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://reidobingo-net.umbler.net/registration.php" class="menuTop">Cadastre-se</a>
 					  		  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
                   <a href="prizes.php" class="menuTop">Pr&ecirc;mios</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
                   <a href="affliates.php" class="menuTop">Afiliados</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -480,7 +480,7 @@
                 <td height="26" background="img/pt/menu.gif" align="center"><a href="games.php" class="menuTop">Nossos 
                   Jogos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
                   <a href="account.php" class="menuTop">Minha Conta</a>
-		  							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.reidobingo-net.umbler.net/~lotop/registration.php" class="menuTop">Cadastre-se</a>
+		  							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://reidobingo-net.umbler.net/~lotop/registration.php" class="menuTop">Cadastre-se</a>
 					  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <a href="prizes.php" class="menuTop">Pr&ecirc;mios</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
                   <a href="affliates.php" class="menuTop">Afiliados</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 

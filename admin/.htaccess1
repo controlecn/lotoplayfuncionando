@@ -3,4 +3,4 @@ AuthType Basic
 AuthName "Afiliados"
 AuthUserFile "/home/criativa/admin_pswd"
 require valid-user
-ErrorDocument 403 https://www.reidobingo-net.umbler.net/admin_mais_complicado/index.php
+ErrorDocument 403 http://reidobingo-net.umbler.net/admin_mais_complicado/index.php

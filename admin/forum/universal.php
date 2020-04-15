@@ -34,7 +34,7 @@ $globals['server'] = 'reidobingo-net.umbler.net';
 
 /* Core Settings */ 
 
-$globals['url'] = 'https://www.reidobingo-net.umbler.net/admin_mais_complicado/forum';
+$globals['url'] = 'http://reidobingo-net.umbler.net/admin_mais_complicado/forum';
 $globals['sn'] = 'Forum de funcionarios LP';
 $globals['board_email'] = 'suporte@lotoplay.com';
 $globals['server_url'] = '/home/lotop/public_html/admin_mais_complicado/forum';
